@@ -1,0 +1,5 @@
+resumes/
+resumes.db
+__pycache__/
+*.pyc
+.env
